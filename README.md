@@ -1,7 +1,13 @@
-<h1>Hi 👋, I am Dhruv</h1>
+<h1>Hi 👋, I am Subhajit Samanta</h1>
 
 
-## ✉️ Find me on:
+👀 I’m interested in Problem Solving, Design
+
+🌱 I’m currently learning Full Stack Web Development
+
+💞️ I’m looking to collab
+
+<h1>✉️ Find me on:</h1>
 
 
 <p align="center">
