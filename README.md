@@ -41,8 +41,8 @@
 ## &#x1f4c8; My GitHub Stats
 <div align="center">
   <a href="https://github.com/022subha">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=022subha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=022subha&theme=algolia&hide=c%2B%2B&layout=compact" alt="Top Languages"/>
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=022subha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=022subha&theme=algolia&hide=c%2B%2B&layout=compact" alt="Top Languages"/>
   </a>
 </div>
 
